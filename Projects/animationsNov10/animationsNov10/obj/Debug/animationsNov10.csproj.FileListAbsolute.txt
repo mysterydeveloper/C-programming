@@ -1,0 +1,12 @@
+\\gwscistud\stud\g00308303\documents\visual studio 2010\Projects\animationsNov10\animationsNov10\Bin\Debug\ApplicationIcon.png
+\\gwscistud\stud\g00308303\documents\visual studio 2010\Projects\animationsNov10\animationsNov10\Bin\Debug\Background.png
+\\gwscistud\stud\g00308303\documents\visual studio 2010\Projects\animationsNov10\animationsNov10\Bin\Debug\animationsNov10.dll
+\\gwscistud\stud\g00308303\documents\visual studio 2010\Projects\animationsNov10\animationsNov10\Bin\Debug\animationsNov10.pdb
+\\gwscistud\stud\g00308303\documents\visual studio 2010\Projects\animationsNov10\animationsNov10\Bin\Debug\AppManifest.xaml
+\\gwscistud\stud\g00308303\documents\visual studio 2010\Projects\animationsNov10\animationsNov10\Bin\Debug\animationsNov10.xap
+\\gwscistud\stud\g00308303\documents\visual studio 2010\Projects\animationsNov10\animationsNov10\obj\Debug\App.g.i.cs
+\\gwscistud\stud\g00308303\documents\visual studio 2010\Projects\animationsNov10\animationsNov10\obj\Debug\MainPage.g.i.cs
+\\gwscistud\stud\g00308303\documents\visual studio 2010\Projects\animationsNov10\animationsNov10\obj\Debug\animationsNov10.g.resources
+\\gwscistud\stud\g00308303\documents\visual studio 2010\Projects\animationsNov10\animationsNov10\obj\Debug\animationsNov10.dll
+\\gwscistud\stud\g00308303\documents\visual studio 2010\Projects\animationsNov10\animationsNov10\obj\Debug\animationsNov10.pdb
+\\gwscistud\stud\g00308303\documents\visual studio 2010\Projects\animationsNov10\animationsNov10\obj\Debug\XapCacheFile.xml

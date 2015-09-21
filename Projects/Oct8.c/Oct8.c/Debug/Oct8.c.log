@@ -1,0 +1,17 @@
+﻿Build started 08/10/2014 16:00:22.
+     1>Project "\\gwscistud\stud\g00308303\documents\visual studio 2010\Projects\Oct8.c\Oct8.c\Oct8.c.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Oct8.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt menu.c
+         menu.c
+     1>\\gwscistud\stud\g00308303\documents\visual studio 2010\projects\oct8.c\oct8.c\menu.c(53): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>\\gwscistud\stud\g00308303\documents\visual studio 2010\projects\oct8.c\oct8.c\menu.c(58): error C2371: 'getInPutForCalcPower' : redefinition; different basic types
+                 \\gwscistud\stud\g00308303\documents\visual studio 2010\projects\oct8.c\oct8.c\menu.c(13) : see declaration of 'getInPutForCalcPower'
+     1>\\gwscistud\stud\g00308303\documents\visual studio 2010\projects\oct8.c\oct8.c\menu.c(70): warning C4013: 'calPower' undefined; assuming extern returning int
+     1>Done Building Project "\\gwscistud\stud\g00308303\documents\visual studio 2010\Projects\Oct8.c\Oct8.c\Oct8.c.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.61

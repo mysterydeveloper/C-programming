@@ -1,0 +1,50 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="animationsNov10.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+
+    <phone:PhoneApplicationPage.Resources>
+        <Storyboard x:Name="pieceAnimation">
+            <DoubleAnimation Storyboard.TargetProperty="StrokeThickness" From="0" To="5" Duration="0:0:1" RepeatBehavior="Forever" AutoReverse="True"  />
+        </Storyboard>
+    </phone:PhoneApplicationPage.Resources>
+    
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock x:Name="ApplicationTitle" Text="MY APPLICATION" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock x:Name="PageTitle" Text="page name" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <StackPanel Orientation="Horizontal"  VerticalAlignment="Top" HorizontalAlignment="Center">
+                  <TextBox x:Name="txtSquence" Text="1234" InputScope="Number" Width="300" />
+                <Button x:Name="btnSquence" Content="Go" Click="btnSquence_Click" />
+            </StackPanel>
+            <TextBlock x:Name="tblCurrent" Text="" HorizontalAlignment="Center" VerticalAlignment="Top" Style="{StaticResource PhoneTextTitle1Style}" Margin="0,93,0,0" Height="100" Width="384" />
+            <Ellipse Height="200" HorizontalAlignment="Left" Margin="0,384,0,0" Name="ellipse1" Stroke="Yellow" StrokeThickness="0" VerticalAlignment="Top" Width="300" Fill="Blue" Tag="piece 1" Tap="piece_Tap" />
+            <Ellipse Fill="Yellow" Height="200" HorizontalAlignment="Left" Margin="156,250,0,0" Name="ellipse2" Stroke="Cyan" StrokeThickness="0" Tag="piece 2" VerticalAlignment="Top" Width="300" Tap="piece_Tap"/>
+            <Ellipse Fill="Magenta" Height="200" HorizontalAlignment="Left" Margin="0,250,0,0" Name="ellipse3" Stroke="Aqua" StrokeThickness="0" Tag="piece 3" VerticalAlignment="Top" Width="300" Tap="piece_Tap"/>
+            <Ellipse Fill="Crimson" Height="200" HorizontalAlignment="Left" Margin="168,384,0,0" Name="ellipse4" Stroke="Purple" StrokeThickness="0" Tag="piece 4" VerticalAlignment="Top" Width="300" Tap="piece_Tap"/>
+        </Grid>
+    </Grid>
+ 
+  
+</phone:PhoneApplicationPage>

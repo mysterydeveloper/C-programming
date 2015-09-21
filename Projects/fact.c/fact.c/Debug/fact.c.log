@@ -1,0 +1,17 @@
+﻿Build started 24/09/2014 15:56:46.
+     1>Project "\\gwscistud\stud\g00308303\documents\visual studio 2010\Projects\fact.c\fact.c\fact.c.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\fact.c.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         fact.c.vcxproj -> \\gwscistud\stud\g00308303\documents\visual studio 2010\Projects\fact.c\Debug\fact.c.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\fact.c.unsuccessfulbuild".
+         Touching "Debug\fact.c.lastbuildstate".
+     1>Done Building Project "\\gwscistud\stud\g00308303\documents\visual studio 2010\Projects\fact.c\fact.c\fact.c.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.10

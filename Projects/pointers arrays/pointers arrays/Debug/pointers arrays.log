@@ -1,0 +1,17 @@
+﻿Build started 20/01/2015 10:45:03.
+     1>Project "\\GWSCISTUD\STUD\G00308303\Documents\Visual Studio 2010\Projects\pointers arrays\pointers arrays\pointers arrays.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\pointers arrays.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         pointers arrays.vcxproj -> \\GWSCISTUD\STUD\G00308303\Documents\Visual Studio 2010\Projects\pointers arrays\Debug\pointers arrays.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\pointers arrays.unsuccessfulbuild".
+         Touching "Debug\pointers arrays.lastbuildstate".
+     1>Done Building Project "\\GWSCISTUD\STUD\G00308303\Documents\Visual Studio 2010\Projects\pointers arrays\pointers arrays\pointers arrays.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.09

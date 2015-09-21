@@ -1,0 +1,17 @@
+﻿Build started 29/10/2014 16:03:13.
+     1>Project "\\gwscistud\stud\g00308303\documents\visual studio 2010\Projects\oct29\oct29\oct29.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\oct29.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         oct29.vcxproj -> \\gwscistud\stud\g00308303\documents\visual studio 2010\Projects\oct29\Debug\oct29.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\oct29.unsuccessfulbuild".
+         Touching "Debug\oct29.lastbuildstate".
+     1>Done Building Project "\\gwscistud\stud\g00308303\documents\visual studio 2010\Projects\oct29\oct29\oct29.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.10

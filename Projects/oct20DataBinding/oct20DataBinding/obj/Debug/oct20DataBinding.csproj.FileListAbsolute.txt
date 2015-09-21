@@ -1,0 +1,12 @@
+\\gwscistud\stud\g00308303\documents\visual studio 2010\Projects\oct20DataBinding\oct20DataBinding\Bin\Debug\ApplicationIcon.png
+\\gwscistud\stud\g00308303\documents\visual studio 2010\Projects\oct20DataBinding\oct20DataBinding\Bin\Debug\Background.png
+\\gwscistud\stud\g00308303\documents\visual studio 2010\Projects\oct20DataBinding\oct20DataBinding\Bin\Debug\oct20DataBinding.dll
+\\gwscistud\stud\g00308303\documents\visual studio 2010\Projects\oct20DataBinding\oct20DataBinding\Bin\Debug\oct20DataBinding.pdb
+\\gwscistud\stud\g00308303\documents\visual studio 2010\Projects\oct20DataBinding\oct20DataBinding\Bin\Debug\AppManifest.xaml
+\\gwscistud\stud\g00308303\documents\visual studio 2010\Projects\oct20DataBinding\oct20DataBinding\Bin\Debug\oct20DataBinding.xap
+\\gwscistud\stud\g00308303\documents\visual studio 2010\Projects\oct20DataBinding\oct20DataBinding\obj\Debug\App.g.i.cs
+\\gwscistud\stud\g00308303\documents\visual studio 2010\Projects\oct20DataBinding\oct20DataBinding\obj\Debug\MainPage.g.i.cs
+\\gwscistud\stud\g00308303\documents\visual studio 2010\Projects\oct20DataBinding\oct20DataBinding\obj\Debug\oct20DataBinding.g.resources
+\\gwscistud\stud\g00308303\documents\visual studio 2010\Projects\oct20DataBinding\oct20DataBinding\obj\Debug\oct20DataBinding.dll
+\\gwscistud\stud\g00308303\documents\visual studio 2010\Projects\oct20DataBinding\oct20DataBinding\obj\Debug\oct20DataBinding.pdb
+\\gwscistud\stud\g00308303\documents\visual studio 2010\Projects\oct20DataBinding\oct20DataBinding\obj\Debug\XapCacheFile.xml

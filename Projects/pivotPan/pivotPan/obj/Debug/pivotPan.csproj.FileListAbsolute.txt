@@ -1,0 +1,16 @@
+\\gwscistud\stud\g00308303\documents\visual studio 2010\Projects\pivotPan\pivotPan\Bin\Debug\ApplicationIcon.png
+\\gwscistud\stud\g00308303\documents\visual studio 2010\Projects\pivotPan\pivotPan\Bin\Debug\Background.png
+\\gwscistud\stud\g00308303\documents\visual studio 2010\Projects\pivotPan\pivotPan\Bin\Debug\pivotPan.dll
+\\gwscistud\stud\g00308303\documents\visual studio 2010\Projects\pivotPan\pivotPan\Bin\Debug\pivotPan.pdb
+\\gwscistud\stud\g00308303\documents\visual studio 2010\Projects\pivotPan\pivotPan\Bin\Debug\AppManifest.xaml
+\\gwscistud\stud\g00308303\documents\visual studio 2010\Projects\pivotPan\pivotPan\Bin\Debug\pivotPan.xap
+\\gwscistud\stud\g00308303\documents\visual studio 2010\Projects\pivotPan\pivotPan\Bin\Debug\Microsoft.Phone.Controls.dll
+\\gwscistud\stud\g00308303\documents\visual studio 2010\Projects\pivotPan\pivotPan\Bin\Debug\Microsoft.Phone.Controls.xml
+\\gwscistud\stud\g00308303\documents\visual studio 2010\Projects\pivotPan\pivotPan\obj\Debug\App.g.i.cs
+\\gwscistud\stud\g00308303\documents\visual studio 2010\Projects\pivotPan\pivotPan\obj\Debug\MainPage.g.i.cs
+\\gwscistud\stud\g00308303\documents\visual studio 2010\Projects\pivotPan\pivotPan\obj\Debug\PanoramaPage1.g.i.cs
+\\gwscistud\stud\g00308303\documents\visual studio 2010\Projects\pivotPan\pivotPan\obj\Debug\PivotPage1.g.i.cs
+\\gwscistud\stud\g00308303\documents\visual studio 2010\Projects\pivotPan\pivotPan\obj\Debug\pivotPan.g.resources
+\\gwscistud\stud\g00308303\documents\visual studio 2010\Projects\pivotPan\pivotPan\obj\Debug\pivotPan.dll
+\\gwscistud\stud\g00308303\documents\visual studio 2010\Projects\pivotPan\pivotPan\obj\Debug\pivotPan.pdb
+\\gwscistud\stud\g00308303\documents\visual studio 2010\Projects\pivotPan\pivotPan\obj\Debug\XapCacheFile.xml
